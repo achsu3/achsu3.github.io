@@ -2,9 +2,9 @@
 
 <!-- [GitHub](https://github.com/achsu3) -->
 
-#[Curriculum Vitae](https://achsu3.github.io/cv_2020.pdf)
+[Curriculum Vitae](https://achsu3.github.io/cv_2020.pdf)
 
-![This is me!](me.jpg=1000x1498)
+![This is me!](me.jpg =1000x1498)
 
 Hello! My name is Amanda and I'm a computer engineering student at the University of Illinois at Urbana-Champaign.
 
