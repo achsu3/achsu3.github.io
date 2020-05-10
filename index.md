@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
-
 [LinkedIn](https://www.linkedin.com/in/amanda-hsu-7116b7155/) [GitHub](https://github.com/achsu3)
 
-[CV](https://achsu3.github.io/cv_2020.pdf)
+[Curriculum Vitae](https://achsu3.github.io/cv_2020.pdf)
 
-You can use the [editor on GitHub](https://github.com/achsu3/achsu3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![This is me!](me.jpg)
+
+
+<!-- You can use the [editor on GitHub](https://github.com/achsu3/achsu3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -38,4 +39,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
