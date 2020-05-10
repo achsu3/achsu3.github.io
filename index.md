@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[LinkedIn](https://www.linkedin.com/in/amanda-hsu-7116b7155/) [GitHub](https://github.com/achsu3)
+
 You can use the [editor on GitHub](https://github.com/achsu3/achsu3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
