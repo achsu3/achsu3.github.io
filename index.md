@@ -4,7 +4,7 @@
 
 [Curriculum Vitae](https://achsu3.github.io/cv_2020.pdf)
 
-![This is me!](me.jpg =1000x)
+![](me.jpg | width=100)
 
 Hello! My name is Amanda and I'm a computer engineering student at the University of Illinois at Urbana-Champaign.
 
