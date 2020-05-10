@@ -1,8 +1,14 @@
-[LinkedIn](https://www.linkedin.com/in/amanda-hsu-7116b7155/) [GitHub](https://github.com/achsu3)
+[LinkedIn](https://www.linkedin.com/in/amanda-hsu-7116b7155/)
 
-[Curriculum Vitae](https://achsu3.github.io/cv_2020.pdf)
+<!-- [GitHub](https://github.com/achsu3) -->
 
-![This is me!](me.jpg)
+#[Curriculum Vitae](https://achsu3.github.io/cv_2020.pdf)
+
+![This is me!](me.jpg=1000x1498)
+
+Hello! My name is Amanda and I'm a computer engineering student at the University of Illinois at Urbana-Champaign.
+
+My research experience has focused on network verification and systems security, but I am broadly interested in security and the internet in general.
 
 
 <!-- You can use the [editor on GitHub](https://github.com/achsu3/achsu3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
