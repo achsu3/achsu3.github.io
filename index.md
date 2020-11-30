@@ -6,7 +6,7 @@
 
 ![](me.jpg)
 
-Hello! My name is Amanda and I'm a computer engineering student at the University of Illinois at Urbana-Champaign.
+# Hello! My name is Amanda and I'm a computer engineering student at the University of Illinois at Urbana-Champaign.
 
 My research experience has focused on network verification and systems security, but I am broadly interested in security and the internet in general.
 
