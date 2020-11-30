@@ -10,7 +10,7 @@
 
 My research experience has focused on network verification and systems security, but I am broadly interested in security and the internet in general.
 
-# Publications:
+**Publications:**
 
 M. A. Noureddine, A. M. Fawaz, A. Hsu, C. Guldner, S. Vijay, T. Ba¸sar, and W. H. Sanders, “Revisiting client puzzles for state exhaustion attacks resilience,” in 2019 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), June 2019, pp. 617–629. [PDF](https://achsu3.github.io/client-puzzles-dsn19.pdf)
 
