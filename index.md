@@ -10,6 +10,11 @@ Hello! My name is Amanda and I'm a computer engineering student at the Universit
 
 My research experience has focused on network verification and systems security, but I am broadly interested in security and the internet in general.
 
+Publications:
+M. A. Noureddine, A. M. Fawaz, A. Hsu, C. Guldner, S. Vijay, T. Ba¸sar, and W. H. Sanders, “Revisiting client puzzles for state exhaustion attacks resilience,” in 2019 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), June 2019, pp. 617–629. [PDF](https://achsu3.github.io/client-puzzles-dsn19.pdf)
+M. A. Noureddine, A. Hsu, M. Caesar, F. A. Zaraket, and W. H. Sanders, “P4aig: Circuit-level verification of p4 programs,” in 2019 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks – Supplemental Volume (DSN-S), June 2019, pp. 21–22. [PDF](https://achsu3.github.io/aig-dsn19.pdf)
+
+
 
 <!-- You can use the [editor on GitHub](https://github.com/achsu3/achsu3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
