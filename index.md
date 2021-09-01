@@ -6,9 +6,9 @@
 
 ![](me.jpg)
 
-**Hello! My name is Amanda and I'm a computer engineering student at the University of Illinois at Urbana-Champaign.**
+**Hello! My name is Amanda and I'm a PhD student at Georgia Institute of Technology, specifically in the School of Cybersecurity and Privacy. I am co-advised by Professor Paul Pearce and Professor Frank Li. I graduated in May 2021 the University of Illinois at Urbana-Champaign with my undergraduate degree in Computer Engineering.**
 
-My research experience has focused on network verification and systems security, but I am broadly interested in security and the internet in general.
+My research experience has focused on network verification, systems security, and internet measurement, but I am broadly interested in security and the internet in general.
 
 **Publications:**
 
