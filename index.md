@@ -2,7 +2,7 @@
 
 <!-- [GitHub](https://github.com/achsu3) -->
 
-[Curriculum Vitae](https://achsu3.github.io/cv_2020.pdf)
+[Curriculum Vitae](https://achsu3.github.io/cv_2021.pdf)
 
 ![](me.jpg)
 
@@ -12,7 +12,7 @@ My research experience has focused on network verification, systems security, an
 
 I graduated in May 2021 the University of Illinois at Urbana-Champaign with my undergraduate degree in Computer Engineering. There, I was advised by Professor Matthew Caesar.
 
-Contact: ahsu67 [AT] gatech.edu
+Contact: ahsu67 AT gatech.edu
 
 **Publications:**
 
