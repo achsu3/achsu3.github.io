@@ -15,8 +15,11 @@ I graduated in May 2021 the University of Illinois at Urbana-Champaign with my u
 Contact: ahsu67 AT gatech.edu
 
 **Awards:**
+
 National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP), 2022
+
 Herbert P. Haley Fellowship, Georgia Institute of Technology, 2022
+
 President's Fellow, Georgia Institute of Technology, 2021
 
 Knights of St. Patrick, University of Illinois at Urbana-Champaign, 2021
