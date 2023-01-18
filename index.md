@@ -2,13 +2,13 @@
 
 <!-- [GitHub](https://github.com/achsu3) -->
 
-[Curriculum Vitae](https://achsu3.github.io/cv_2022.pdf)
+[Curriculum Vitae](https://achsu3.github.io/cv_2023.pdf)
 
 ![](me.jpg)
 
 **Hello! My name is Amanda and I'm a PhD student at Georgia Institute of Technology in the School of Cybersecurity and Privacy. I am co-advised by Professor Paul Pearce and Professor Frank Li.**
 
-My research experience has focused on network verification, systems security, and Internet measurement, but I am broadly interested in security and the internet in general.
+My research experience has focused on network verification, systems security, and Internet measurement, but I am broadly interested in security and the Internet in general.
 
 I graduated in May 2021 the University of Illinois at Urbana-Champaign with my undergraduate degree in Computer Engineering. There, I was advised by Professor Matthew Caesar.
 
@@ -27,6 +27,7 @@ Knights of St. Patrick, University of Illinois at Urbana-Champaign, 2021
 
 
 **Publications:**
+
 A. Hsu, F. Li, P. Pearce, "Fiat Lux: Illimunating IPv6 Apportionment with Different Datasets," ACM SIGMETRICS 2023 (to appear)
 
 M. A. Noureddine, A. M. Fawaz, A. Hsu, C. Guldner, S. Vijay, T. Ba¸sar, and W. H. Sanders, “Revisiting client puzzles for state exhaustion attacks resilience,” in 2019 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), June 2019, pp. 617–629. [PDF](https://achsu3.github.io/client-puzzles-dsn19.pdf)
