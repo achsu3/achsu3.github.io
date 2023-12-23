@@ -1,10 +1,14 @@
+---
+layout: default
+---
+
 [LinkedIn](https://www.linkedin.com/in/amanda-hsu-7116b7155/)
 
 <!-- [GitHub](https://github.com/achsu3) -->
 
 [Curriculum Vitae](https://achsu3.github.io/cv_2023.pdf)
 
-![](me.jpg)
+<!-- ![](me.jpg) -->
 
 **Hello! My name is Amanda and I'm a PhD student at Georgia Institute of Technology in the School of Cybersecurity and Privacy. I am co-advised by Professor Paul Pearce and Professor Frank Li.**
 
