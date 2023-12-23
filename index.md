@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[LinkedIn](https://www.linkedin.com/in/amanda-hsu-7116b7155/)
+<!-- [LinkedIn](https://www.linkedin.com/in/amanda-hsu-7116b7155/) -->
 
 <!-- [GitHub](https://github.com/achsu3) -->
 
