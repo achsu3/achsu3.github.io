@@ -6,7 +6,7 @@ layout: default
 
 **Hello! I am a PhD student at Georgia Institute of Technology in the School of Cybersecurity and Privacy. I am co-advised by Professor Paul Pearce and Professor Frank Li.**
 
-My research experience has focused on network verification, systems security, and Internet measurement, but I am broadly interested in security and the Internet in general.
+My research experience has focused on network verification, systems security, and Internet measurement, but I am broadly interested in security and the Internet.
 
 I graduated in May 2021 the University of Illinois at Urbana-Champaign with my undergraduate degree in Computer Engineering. There, I was advised by Professor Matthew Caesar.
 
