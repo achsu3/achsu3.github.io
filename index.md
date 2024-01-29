@@ -14,7 +14,7 @@ I graduated in May 2021 the University of Illinois at Urbana-Champaign with my u
 
 **Publications:**
 
-**A. Hsu**, F. Li, P. Pearce, O. Gasser, "A First Look At NAT64 Deployment In-The-Wild," PAM 2024 *(to appear)*
+**A. Hsu**, F. Li, P. Pearce, O. Gasser, "A First Look At NAT64 Deployment In-The-Wild," PAM 2024 *(to appear)* [PDF](https://arxiv.org/pdf/2311.04181.pdf)
 
 **A. Hsu**, F. Li, P. Pearce, "Fiat Lux: Illimunating IPv6 Apportionment with Different Datasets," ACM SIGMETRICS 2023 [PDF](https://achsu3.github.io/lux_sigmetrics_2023.pdf)
 
