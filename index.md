@@ -6,7 +6,7 @@ layout: default
 
 **Hello! I am a PhD student at Georgia Institute of Technology in the School of Cybersecurity and Privacy. I am co-advised by Professor Paul Pearce and Professor Frank Li.**
 
-My research experience has focused on network verification, systems security, and Internet measurement, but I am broadly interested in security and the Internet.
+My research experience includes network verification, systems security, and Internet measurement. I am broadly interested in cybersecurity and the Internet.
 
 I graduated in May 2021 the University of Illinois at Urbana-Champaign with my undergraduate degree in Computer Engineering. There, I was advised by Professor Matthew Caesar.
 
@@ -14,7 +14,7 @@ I graduated in May 2021 the University of Illinois at Urbana-Champaign with my u
 
 **Publications:**
 
-**A. Hsu**, F. Li, P. Pearce, O. Gasser, "A First Look At NAT64 Deployment In-The-Wild," PAM 2024 *(to appear)* [PDF](https://arxiv.org/pdf/2311.04181.pdf)
+**A. Hsu**, F. Li, P. Pearce, O. Gasser, "A First Look At NAT64 Deployment In-The-Wild," PAM 2024 [PDF](https://arxiv.org/pdf/2311.04181.pdf)
 
 **A. Hsu**, F. Li, P. Pearce, "Fiat Lux: Illimunating IPv6 Apportionment with Different Datasets," ACM SIGMETRICS 2023 [PDF](https://achsu3.github.io/lux_sigmetrics_2023.pdf)
 
