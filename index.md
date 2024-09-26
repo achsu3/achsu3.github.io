@@ -14,6 +14,8 @@ I graduated in May 2021 the University of Illinois at Urbana-Champaign with my u
 
 **Publications:**
 
+G. Williams, M. Erdemir, **A. Hsu**, S. Bhat, A. Bhaskar, F. Li, P. Pearce, "6SENSE: Internet-Wide IPv6 Scanning and its Security Applications," USENIX Security 2024
+
 **A. Hsu**, F. Li, P. Pearce, O. Gasser, "A First Look At NAT64 Deployment In-The-Wild," PAM 2024 [PDF](https://arxiv.org/pdf/2311.04181.pdf)
 
 **A. Hsu**, F. Li, P. Pearce, "Fiat Lux: Illimunating IPv6 Apportionment with Different Datasets," ACM SIGMETRICS 2023 [PDF](https://achsu3.github.io/lux_sigmetrics_2023.pdf)
@@ -32,6 +34,9 @@ President's Fellow, Georgia Institute of Technology, 2021
 
 Knights of St. Patrick, University of Illinois at Urbana-Champaign, 2021
 
+**Talks**
+
+IETF 120 (MAPRG): A First Look At NAT64 Deployment In-The-Wild, July 2024
 <!-- You can use the [editor on GitHub](https://github.com/achsu3/achsu3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
