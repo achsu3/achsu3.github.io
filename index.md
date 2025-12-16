@@ -14,6 +14,8 @@ I graduated in May 2021 the University of Illinois at Urbana-Champaign with my u
 
 **Publications:**
 
+**A. Hsu**, N. Feamster, P. Pearce, F. Li, "The Impact of IP Version on Household Internet Speed: A Comparative Study," POMACS December 2025, SIGMETRICS 2026 (to appear) [PDF](https://dl.acm.org/doi/pdf/10.1145/3771579)
+
 G. Williams, M. Erdemir, **A. Hsu**, S. Bhat, A. Bhaskar, F. Li, P. Pearce, "6SENSE: Internet-Wide IPv6 Scanning and its Security Applications," USENIX Security 2024
 
 **A. Hsu**, F. Li, P. Pearce, O. Gasser, "A First Look At NAT64 Deployment In-The-Wild," PAM 2024 [PDF](https://arxiv.org/pdf/2311.04181.pdf)
