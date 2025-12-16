@@ -3,6 +3,7 @@ layout: default
 ---
 
 [Curriculum Vitae](https://achsu3.github.io/cv_2025.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=e0DdOx4AAAAJ&hl=en)
 
 **Hello! I am a PhD student at Georgia Institute of Technology in the School of Cybersecurity and Privacy. I am co-advised by Professor Paul Pearce and Professor Frank Li.**
 
