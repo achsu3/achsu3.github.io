@@ -2,12 +2,14 @@
 layout: default
 ---
 
-[Curriculum Vitae](https://achsu3.github.io/cv_2025.pdf)
+[Curriculum Vitae](https://achsu3.github.io/cv_sp26.pdf)
 [Google Scholar](https://scholar.google.com/citations?user=e0DdOx4AAAAJ&hl=en)
 
 **Hello! I am a PhD student at Georgia Institute of Technology in the School of Cybersecurity and Privacy. I am co-advised by Professor Paul Pearce and Professor Frank Li.**
 
-My research experience includes network verification, systems security, and Internet measurement. I am broadly interested in cybersecurity and the Internet.
+I research Internet measurement with an emphasis on understanding the state of IPv6 deployment.
+I am broadly interested in cybersecurity and the Internet. 
+My other experience includes network verification and systems security. 
 
 I graduated in May 2021 the University of Illinois at Urbana-Champaign with my undergraduate degree in Computer Engineering. There, I was advised by Professor Matthew Caesar.
 
