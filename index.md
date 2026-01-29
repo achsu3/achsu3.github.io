@@ -25,7 +25,7 @@ G. Williams, M. Erdemir, **A. Hsu**, S. Bhat, A. Bhaskar, F. Li, P. Pearce, "6SE
 
 **A. Hsu**, F. Li, P. Pearce, "Fiat Lux: Illimunating IPv6 Apportionment with Different Datasets," POMACS December 2022, ACM SIGMETRICS 2023 [PDF](https://achsu3.github.io/lux_sigmetrics_2023.pdf)
 
-M. A. Noureddine, A. M. Fawaz, **A. Hsu**, C. Guldner, S. Vijay, T. Ba¸sar, and W. H. Sanders, “Revisiting client puzzles for state exhaustion attacks resilience,” in 2019 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), June 2019, pp. 617–629. [PDF](https://achsu3.github.io/client-puzzles-dsn19.pdf)
+M. A. Noureddine, A. M. Fawaz, **A. Hsu**, C. Guldner, S. Vijay, T. Ba¸sar, and W. H. Sanders, “Revisiting client puzzles for state exhaustion attacks resilience,” in 2019 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), June 2019, pp. 617–629. [PDF](https://ieeexplore.ieee.org/document/8809536)
 
 M. A. Noureddine, **A. Hsu**, M. Caesar, F. A. Zaraket, and W. H. Sanders, “P4aig: Circuit-level verification of p4 programs,” in 2019 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks – Supplemental Volume (DSN-S), June 2019, pp. 21–22. [PDF](https://achsu3.github.io/aig-dsn19.pdf)
 
