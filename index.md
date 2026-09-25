@@ -5,19 +5,24 @@ layout: default
 [Curriculum Vitae](https://achsu3.github.io/cv_sp26.pdf)
 [Google Scholar](https://scholar.google.com/citations?user=e0DdOx4AAAAJ&hl=en)
 
-**Hello! I am a PhD student at Georgia Institute of Technology in the School of Cybersecurity and Privacy. I am co-advised by Professor Paul Pearce and Professor Frank Li.**
+**Hello! I am an \[incoming\] postdoc at the University of Chicago, working with Nick Feamster.**
 
-I research Internet measurement with an emphasis on understanding the state of IPv6 deployment.
+I research Internet measurement with an emphasis on understanding emerging technologies, including IPv6, AI, and mapping infrastructure. 
 I am broadly interested in cybersecurity and the Internet. 
 My other experience includes network verification and systems security. 
 
-I graduated in May 2021 the University of Illinois at Urbana-Champaign with my undergraduate degree in Computer Engineering. There, I was advised by Professor Matthew Caesar.
+I finished my PhD at Georgia Institute of Technology in August 2026. There, I was co-advised by Professor Paul Pearce and Professor Frank Li.
+I also graduated in May 2021 the University of Illinois at Urbana-Champaign with my undergraduate degree in Computer Engineering.
 
 **Contact:** ahsu67 AT gatech.edu
 
 **Publications:**
 
-**A. Hsu**, N. Feamster, P. Pearce, F. Li, "The Impact of IP Version on Household Internet Speed: A Comparative Study," POMACS December 2025, SIGMETRICS 2026 (to appear) [PDF](https://dl.acm.org/doi/pdf/10.1145/3771579)
+**A. Hsu**, P. Pearce, F. Li, A. Berger, P. Richter, "The Impact of IP Version on Household Internet Speed: A Comparative Study," CoNEXT 2026 (to appear)
+
+H. Hue, A. Bhaskar, **A. Hsu**, P. Pearce, F. Li, "Exploring the Exposure of IPv6 End-Host Networks," CCS 2026 (to appear)
+
+**A. Hsu**, N. Feamster, P. Pearce, F. Li, "The Impact of IP Version on Household Internet Speed: A Comparative Study," POMACS December 2025, SIGMETRICS 2026 [PDF](https://dl.acm.org/doi/pdf/10.1145/3771579)
 
 G. Williams, M. Erdemir, **A. Hsu**, S. Bhat, A. Bhaskar, F. Li, P. Pearce, "6SENSE: Internet-Wide IPv6 Scanning and its Security Applications," USENIX Security 2024 [PDF](https://www.usenix.org/system/files/usenixsecurity24-williams.pdf)
 
