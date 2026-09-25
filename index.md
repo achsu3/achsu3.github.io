@@ -11,7 +11,7 @@ I research Internet measurement with an emphasis on understanding emerging techn
 I am broadly interested in cybersecurity and the Internet. 
 My other experience includes network verification and systems security. 
 
-I finished my PhD at Georgia Institute of Technology in August 2026. There, I was co-advised by Professor Paul Pearce and Professor Frank Li.
+I finished my PhD at Georgia Institute of Technology in August 2026. There, I was co-advised by Paul Pearce and Frank Li.
 I also graduated in May 2021 the University of Illinois at Urbana-Champaign with my undergraduate degree in Computer Engineering.
 
 **Contact:** ahsu67 AT gatech.edu
