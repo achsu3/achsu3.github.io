@@ -5,7 +5,7 @@ layout: default
 [Curriculum Vitae](https://achsu3.github.io/cv_sp26.pdf)
 [Google Scholar](https://scholar.google.com/citations?user=e0DdOx4AAAAJ&hl=en)
 
-**Hello! I am an \[incoming\] postdoc at the University of Chicago, working with Nick Feamster.**
+**Hello! I am a postdoc at the University of Chicago, working with Nick Feamster.**
 
 I research Internet measurement with an emphasis on understanding emerging technologies, including IPv6, AI, and mapping infrastructure. 
 I am broadly interested in cybersecurity and the Internet. 
