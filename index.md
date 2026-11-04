@@ -18,7 +18,7 @@ I also graduated in May 2021 the University of Illinois at Urbana-Champaign with
 
 **Publications:**
 
-**A. Hsu**, P. Pearce, F. Li, A. Berger, P. Richter, "Detecting and Characterizing Massively Shared IP Addresses," CoNEXT 2026 (to appear)
+**A. Hsu**, P. Pearce, F. Li, A. Berger, P. Richter, "Detecting and Characterizing Massively Shared IP Addresses," CoNEXT 2026 (to appear) [PDF](https://achsu3.github.io/shared_ips_conext26.pdf)
 
 H. Hue, A. Bhaskar, **A. Hsu**, P. Pearce, F. Li, "Exploring the Exposure of IPv6 End-Host Networks," CCS 2026 (to appear)
 
