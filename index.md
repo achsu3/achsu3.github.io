@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Curriculum Vitae](https://achsu3.github.io/cv_sp26.pdf)
+[Curriculum Vitae](https://achsu3.github.io/website_cv_fa26.pdf)
 [Google Scholar](https://scholar.google.com/citations?user=e0DdOx4AAAAJ&hl=en)
 
 **Hello! I am a postdoc at the University of Chicago, working with Nick Feamster.**
